@@ -38,4 +38,4 @@ O projeto foi construído com foco em simplicidade e performance, sem dependênc
 Para começar a usar, basta clonar o repositório e incluir o script no seu projeto:
 
 ```bash
-git clone [https://github.com/gustavocoimbradev/typingjs.git](https://github.com/gustavocoimbradev/typingjs.git)
+git clone https://github.com/gustavocoimbradev/typingjs.git
